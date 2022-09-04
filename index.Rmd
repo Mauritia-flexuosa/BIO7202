@@ -1,0 +1,277 @@
+---
+title: "Detecção e caracterização dos principais fatores abióticos do ambiente"
+subtitle: "BIO7202 - Fauna `r emo::ji('frog')`, Flora `r emo::ji('tree')` e Ambiente `r emo::ji('landscape')`"
+author: "Marcio Baldissera Cure"
+institute: "[PPG Ecologia](htpps://poseco.ufsc.br), UFSC - [Laboratório IPES](https://ipes.ufsc.br)"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    chakra: libs/remark-latest.min.js
+    css: ["uo", "rutgers", "aula.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+
+---
+class: top, center
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+```{r webcam, echo=FALSE, include= TRUE}
+xaringanExtra::use_webcam()
+```
+
+```{r xaringan_themes, echo = FALSE, include=FALSE}
+	names(xaringan:::list_css())
+```
+
+```{r broadcast, echo=FALSE}
+xaringanExtra::use_broadcast()
+```
+
+background-image: url("https://s1.static.brasilescola.uol.com.br/be/conteudo/images/d7b44e0470bbe892e8ffec9046a26d10.jpg")
+
+# Sumário
+
+.left[
+1. Conceitos: fatores abióticos, condições ambientais e recursos;
+
+2. Relação dos fatores abióticos com os fatores bióticos;
+
+3. Fatores abióticos limitantes;
+
+4. Exemplos em Ambientes terrestres;
+
+5. Exemplos em Ambiente marinho;
+
+6. Atmosfera;
+
+7. Condições ambientais e interações bióticas;
+
+8. Condições ambientais e características das espécies;
+
+9. Dinâmica das condições ambientais;
+
+10. Atividade proposta.
+]
+
+???
+Nesta aula, falaremos sobre as condições ambientais e sua relação com a fauna e a flora.
+---
+class: top,center
+
+# O que são fatores abióticos?
+
+--
+
+.left[
+
+- ### Fatores abióticos são os elementos [não vivos](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/abiotic-factor) do ambiente. 
+]
+
+<img width="33%" src="https://biologyreader.com/wp-content/uploads/2022/05/abiotic-factors.jpg">
+
+_Imagem tirada de <https://biologyreader.com>_
+
+
+---
+class: top, center
+
+# O que são [Condições ambientais](https://edisciplinas.usp.br/mod/book/view.php?id=2438629&chapterid=20711)?
+
+--
+
+- São características físicas e químicas do ambiente. [Townsend et al., 2010](https://moodle.ufsc.br/mod/resource/view.php?id=4130181) 
+
+--
+
+- São fatores abióticos do ambiente que influenciam no funcionamento dos organismos. [Begon et al., 2007](http://www.esalq.usp.br/lepse/imgs/conteudo_thumb/Ecology-From-Individuals-to-Ecosystems-by-Michael-Begon--2006-.pdf)
+
+--
+
+<img width="67%" src="https://img-aws.ehowcdn.com/600x600p/photos.demandstudios.com/getty/article/232/205/157249869.jpg">
+
+_Imagem tirada de <https://sciencing.com>_
+
+---
+class: top, left
+
+.center[# Quiz `r emo::ji('question')`
+
+### Qual a diferença entre <u>condições ambientais</u> e <u>recursos?</u>
+]
+
+--
+
+#### - Os recursos se esgotam, as condições não. 
+
+--
+
+#### - O que não quer dizer que as condições não se modificam com o tempo.
+
+
+---
+class: top, center
+
+# Mas os organismos também influenciam as condições ambientais.
+
+---
+class: top, left
+
+## Fatores abióticos limitantes
+
+- São fatores que limitam o tamanho das populações e podem limitar ou diminuir o seu crescimento.
+
+<img width="160%" src="./img/resposta.png"> _Curvas de resposta dos organismos às condições ambientais._
+
+---
+class: top, left
+
+## Fatores abióticos limitantes
+
+- **Água:** Aquáticos: Possui elementos inorgânicos dissolvidos; equilíbrio hosmótico dos organismos aquáticos; dissecação nos terrestres;
+
+<img width="50%" src="">
+
+---
+class: top, left
+
+## Fatores abióticos limitantes
+
+- **Temperatura:** Efeito em processos biológicos. Maioria dos animais não regula a temperatura corporal;
+
+<img width="50%" src="">
+
+---
+class: top, left
+
+## Fatores abióticos limitantes
+
+- **Luz solar:** Provê energia aos produtores primários; Fotoperíodo
+
+<img width="50%" src="">
+
+---
+class: top, left
+
+## Fatores abióticos limitantes
+
+- **Vento:** Aumenta calor e perda de água; 
+
+<img width="50%" src="">
+
+---
+class: top, left
+
+## Fatores abióticos limitantes
+
+- o **pH** diz respeito à quantidade de íons de Hidrogênio;
+
+<img width="34%" src="/img/ph.png">
+
+---
+class: top, left
+
+# Condições ambientais
+
+### Características do solo;
+
+---
+class: top, center
+
+# 
+
+<img width="50%" src="">
+
+---
+class: top, left
+
+# 
+
+<img width="50%" src="">
+
+--
+
+- temperatura
+
+--
+
+- precipitação
+
+--
+
+- sazonalidade, variação interanual
+
+.center[<img width="70%" src="indicators.png"/>]
+
+---
+# Atividade proposta I
+## Questão para reflexão:
+- Você acredita que a tecnologia dá conta de suprir todas as nossas necessidades e substituir as funções vitais dos sistemas naturais?
+
+- Responder em até 300 palavras.
+
+.center[
+<img width="55%" src="https://thumbs.dreamstime.com/z/natureza-e-tecnologia-10914487.jpg"/>]
+
+---
+
+class: top, center
+
+# Que condições podemos perceber nestes ambientes?
+
+<img width="34%" src="/img/cerrado ss 1.jpg">
+<img width="50%" src="/img/WhatsApp Image 2021-08-29 at 18.44.50.jpeg">
+
+--
+
+#### Que tipos de organismos vivem aqui?
+
+---
+# Atividade proposta II
+
+- Explique brevemente... 
+
+.center[
+<img width="55%" src="https://i1.wp.com/professoruesleipaterno.com/wp-content/uploads/2018/04/restinga-joaquina.jpg?resize=616%2C386&ssl=1"/>]
+
+---
+class: top, left
+
+# Referências
+
+-
+
+- 
+
+- The IPBES Conceptual Framework — connecting nature
+and people: https://ipbes.net/sites/default/files/downloads/pdf/Diaz_et_al._2015_IPBESConceptualFramework.pdf
+
+- Lutzemberger Forever Gaia - Documentário completo: https://www.youtube.com/watch?v=-qaQE18VNgc
+
+- Cutural ecosystem services: The inspirational value of ecosystems in popular music: https://sci-hub.se/https://doi.org/10.1016/j.ecoser.2015.10.024
+
+- Millenium Ecosystem Assessment: https://www.millenniumassessment.org/en/index.html
+
+---
+.center[
+
+# Até a aula que vem! 
+
+## Leia, questione e discuta com os colegas!
+
+<footer><p class="small">
+
+<h3>Contatos:</h3>
+
+<div>
+<a href = "mailto:marciobcure@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/marciobcure" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+</p></footer>
+
+]
