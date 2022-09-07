@@ -394,7 +394,7 @@ _Fontes: [Ciemer et al., 2019](https://www.nature.com/articles/s41561-019-0312-z
 
 ---
 # Atividade proposta I
-## Questão para reflexão:
+
 - Questão 1: O que são condições ambientais?
 
 - Questão 2: Qual a relação dos seres vivos com as condições ambientais?
@@ -408,8 +408,6 @@ _Fontes: [Ciemer et al., 2019](https://www.nature.com/articles/s41561-019-0312-z
 class: top, left
 
 ## Mais algumas referências
-
-### Seja um autoditada!
 
 - Aproveite o material disponível no Moodle da disciplina!
 
