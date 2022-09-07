@@ -56,9 +56,8 @@ class: top,center
 
 --
 
-.left[
 
-- ### Fatores abióticos são os elementos [não vivos](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/abiotic-factor) do ambiente. 
+### Fatores abióticos são os elementos [não vivos](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/abiotic-factor) do ambiente. 
 
 .left-column[
 
@@ -67,8 +66,10 @@ class: top,center
 - Rochas
 - Luz
 - Vento
-- Gases atmosféricos]
+- Gases atmosféricos
 ]
+
+--
 
 .right-column[
 <img width = "48%" src="img/WhatsApp Image 2021-08-29 at 18.44.59.jpeg">
@@ -137,6 +138,10 @@ class: top, left
 
 - **Temperatura:** Efeito em processos biológicos. Maioria dos animais não regula a temperatura corporal;
 
+- Entre 0 ºC e 45 ºC. Fora deste intervalo: Extremófilos
+- Endotérmicos: 
+
+- Ectotérmicos:
 <img width="50%" src="">
 
 ---
@@ -156,6 +161,17 @@ class: top, left
 - **Vento:** Aumenta calor e perda de água; 
 
 <img width="50%" src="">
+---
+class: top, center
+
+# Déficit de pressão de vapor (VPD)
+
+
+  <img width="25%" src="https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/103086425/figure4_v003-01_1_2.jpg"> _Fonte:_
+<img width="46%" src="https://nph.onlinelibrary.wiley.com/cms/asset/27a038fd-d7c1-42b5-9658-14410ab0db3b/nph16485-fig-0004-m.png">
+  
+  _Fontes: [McElrone et al., 2013](https://www.nature.com/scitable/knowledge/library/water-uptake-and-transport-in-vascular-plants-103016037/); [Grossiord et al., 2020](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16485)_
+
 
 ---
 class: top, left
@@ -169,31 +185,17 @@ class: top, left
 ]
 
 ---
-class: top, center
-
-# pH do solo controla os processos biogeoquímicos
-
-.right-column[
-<img src="https://static-02.hindawi.com/articles/aess/volume-2019/5794869/figures/5794869.fig.001.svgz">
-]
-
-*pH do solo controla:*
-
-- Solubilidade;
-- Mobilidade; e
-- Disponibilidade de nutrientes para os organismos
-
-_Fonte: [Neina, 2019](https://www.hindawi.com/journals/aess/2019/5794869/)_
----
 class: top, left
 
 # [Solo](https://www.embrapa.br/contando-ciencia/solos/-/asset_publisher/1ZCT5VQ5Hj1S/content/o-que-e-e-como-se-forma-o-solo-/1355746?inheritRedirect=false) & [Solo](https://pt.wikipedia.org/wiki/Solo)
 
-- Formado de partículas minerais e orgânicas
+- Pedogênese: Diz respeito à formação dos solos.
 
-- Macronutrientes: N, P, K, Ca, Mg, S
+- Formado de partículas minerais e orgânicas.
 
-- Micronutrientes: B, Cl, Cu, Fe, Mn, Mo, Zn, Si e Ni
+- Macronutrientes: N, P, K, Ca, Mg, S.
+
+- Micronutrientes: B, Cl, Cu, Fe, Mn, Mo, Zn, Si e Ni.
 
 ---
 class: top, center
@@ -215,6 +217,22 @@ R: Rocha matriz não alterada. De difícil acesso em campo.
 
 <img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Soil_profile.jpg/170px-Soil_profile.jpg">
 
+---
+class: top, center
+
+# pH do solo controla os processos biogeoquímicos
+
+.right-column[
+<img src="https://static-02.hindawi.com/articles/aess/volume-2019/5794869/figures/5794869.fig.001.svgz">
+]
+
+*pH do solo controla:*
+
+- Solubilidade;
+- Mobilidade; e
+- Disponibilidade de nutrientes para os organismos
+
+_Fonte: [Neina, 2019](https://www.hindawi.com/journals/aess/2019/5794869/)_
 
 
 ---
@@ -247,13 +265,14 @@ _Fonte: [Flores et al., 2015](https://sci-hub.se/https://doi.org/10.5194/bg-12-5
 class: top, center
 
 ## Espécies exóticas mudam estrutura da vegetação
-- Mudança no funcionamento do sistema
+- ...e consequentemente o funcionamento do sistema e as condições
+
 .left-column[
 <img width="500%" src="https://www.pnas.org/cms/10.1073/pnas.0710811105/asset/5e4db7bb-dd53-44e5-8671-09647025d7ac/assets/graphic/zpq0080896870002.jpeg">
 ]
 
 .right-column[
-<img width="75%" src="https://www.pnas.org/cms/10.1073/pnas.0710811105/asset/d3653bcd-c6b4-48c7-982e-f8d47218af79/assets/graphic/zpq0080896870001.jpeg">
+<img width="71%" src="https://www.pnas.org/cms/10.1073/pnas.0710811105/asset/d3653bcd-c6b4-48c7-982e-f8d47218af79/assets/graphic/zpq0080896870001.jpeg">
 ]
 
 
@@ -273,9 +292,11 @@ class: top, center
 
 ## Campos de murundu
 .left-column[
-<img width="500%" src="img/20210726_101526.jpg">
+<img width="700%" src="img/20210726_102150.jpg">
 
+<img src = "img/20210726_101526.jpg">
 ]
+
 
 .right-column[<img width="75%" src="img/murunduu.png">]
 
@@ -285,12 +306,41 @@ class: top, left
 
 # Ciclo climático
 
-<img width="50%" src="">
+### Fatores externos:
+
+- Movimentos de rotação e translação: Escala anual e diária;
+
+- Ciclos de períodos médios (décadas/séculos/milênios): Radiação solar;
+
+- Oscilações oceânicas (decadal): Influências planetares e lunares;
+
+- Ciclos longos (10 a 100 mil anos): Mudanças na órbita da Terra. Ciclo de Milankovitch.
+
+.left-column[
+<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_el.jpg"> [El niño](http://enos.cptec.inpe.br/) DJF
+<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_la.jpg"> [La niña](http://enos.cptec.inpe.br/) DJF
+]
+
+.right-column[<img width="50%" src="http://fisica.ufpr.br/grimm/aposmeteo/cap8/Image590.jpg"/>
+
+_Fonte: [Circulação Global idealizada](http://fisica.ufpr.br/grimm/aposmeteo/cap8/cap8-1.html)_
+]
+---
+# Clico climático
 
 
-- sazonalidade, variação interanual
+### Fatores internos
 
-.center[<img width="70%" src="img/indicators.png"/>]
+- Interações entre atmosfera, oceano e superfície do planeta
+
+- Interações bióticas
+
+- Mudanças de origem antrópica na superfície do planeta
+
+.center[
+<img width="55%" src="https://2img.net/h/s26.postimg.cc/dmm849qa1/100000.png">
+
+[Albedo](http://sigep.cprm.gov.br/glossario/verbete/albedo.htm)]
 
 ---
 # Atividade proposta I
@@ -328,18 +378,13 @@ class: top, left
 
 # Referências
 
--
+- []()
 
-- 
+- []()
 
-- The IPBES Conceptual Framework — connecting nature
-and people: https://ipbes.net/sites/default/files/downloads/pdf/Diaz_et_al._2015_IPBESConceptualFramework.pdf
+- []()
 
-- Lutzemberger Forever Gaia - Documentário completo: https://www.youtube.com/watch?v=-qaQE18VNgc
-
-- Cutural ecosystem services: The inspirational value of ecosystems in popular music: https://sci-hub.se/https://doi.org/10.1016/j.ecoser.2015.10.024
-
-- Millenium Ecosystem Assessment: https://www.millenniumassessment.org/en/index.html
+- [Britannica - Environmental Conditions](https://www.britannica.com/science/biosphere/Environmental-conditions)
 
 ---
 .center[
