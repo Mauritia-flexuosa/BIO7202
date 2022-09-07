@@ -219,12 +219,12 @@ class: top, left
 
 - Micronutrientes: B, Cl, Cu, Fe, Mn, Mo, Zn, Si e Ni.
 
-.center[<img width="63%" src="img/SM6.png">]
+.center[<img width="63%" src="img/SM_6.png">]
 ---
 # Granulometria
 - Se refere ao tamanha das partículas do solo.
 
-.center[<img width="70%" src="img/SM8.png">]
+.center[<img width="80%" src="img/SM_8.png">]
 
 ---
 class: top, center
