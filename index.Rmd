@@ -44,7 +44,11 @@ background-image: url("https://s1.static.brasilescola.uol.com.br/be/conteudo/ima
 
 3. Solo;
 
-10. Atividade proposta.
+4. Clima;
+
+5. Relação com fatores bióticos
+
+6. Atividade proposta.
 ]
 
 ???
@@ -58,6 +62,8 @@ class: top,center
 
 
 ### Fatores abióticos são os elementos [não vivos](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/abiotic-factor) do ambiente. 
+
+--
 
 .left-column[
 
@@ -131,6 +137,7 @@ class: top, left
 <img width="68%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ciclo_da_%C3%A1gua.jpg/350px-Ciclo_da_%C3%A1gua.jpg">
 
 _Fonte da imagem: Wikipedia_] 
+
 ---
 class: top, left
 
@@ -139,9 +146,11 @@ class: top, left
 - **Temperatura:** Efeito em processos biológicos. Maioria dos animais não regula a temperatura corporal;
 
 - Entre 0 ºC e 45 ºC. Fora deste intervalo: Extremófilos
-- Endotérmicos: 
 
-- Ectotérmicos:
+- Endotérmicos: Regulam a própria temperatura. Possível vantagem adaptativa dos mamíferos contra fungos. [Bergman & Casadevall, 2010](https://journals.asm.org/doi/full/10.1128/mbio.00212-10)
+
+- Ectotérmicos: Não possuem mecanismo que regule sua própria temperatura
+
 .center[
 <img width="50%" src="https://cdn.britannica.com/40/6540-050-EE2748D8/ectotherms-inhabitants-Reptiles-scrubland-ecosystems-organisms-sources.jpg?w=690&h=388&c=crop">
 ]
@@ -154,8 +163,9 @@ class: top, left
 
 - **Luz solar:** Provê energia aos produtores primários; Fotoperíodo
 
-<img width="50%" src="">
-
+.center[
+<img width="90%" src="img/clouds.png">
+]
 ---
 class: top, left
 
@@ -163,17 +173,26 @@ class: top, left
 
 - **Vento:** Aumenta calor e perda de água; 
 
-<img width="50%" src="">
+- Déficit de pressão de vapor (VPD)
+
+
+.center[  <img width="20%" src="https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/103086425/figure4_v003-01_1_2.jpg"> 
+<img width="46%" src="https://nph.onlinelibrary.wiley.com/cms/asset/27a038fd-d7c1-42b5-9658-14410ab0db3b/nph16485-fig-0004-m.png">
+  
+  _Fontes: [McElrone et al., 2013](https://www.nature.com/scitable/knowledge/library/water-uptake-and-transport-in-vascular-plants-103016037/); [Grossiord et al., 2020](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16485)_]
 ---
 class: top, center
 
-# Déficit de pressão de vapor (VPD)
+## Fatores abióticos limitantes
 
+### **Salinidade** diz respeito à quantidade de sais dissolvidos na água.
 
-  <img width="25%" src="https://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/103086425/figure4_v003-01_1_2.jpg"> _Fonte:_
-<img width="46%" src="https://nph.onlinelibrary.wiley.com/cms/asset/27a038fd-d7c1-42b5-9658-14410ab0db3b/nph16485-fig-0004-m.png">
-  
-  _Fontes: [McElrone et al., 2013](https://www.nature.com/scitable/knowledge/library/water-uptake-and-transport-in-vascular-plants-103016037/); [Grossiord et al., 2020](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.16485)_
+.left[- Salinidade mais variável na região costeira
+
+- Regulação osmótica
+]
+<img = src="https://cdn.britannica.com/41/6541-050-F662DA80/regulation-freshwater-teleost-fishes.jpg?w=690&h=388&c=crop">
+
 
 
 ---
@@ -181,25 +200,31 @@ class: top, left
 
 ## Fatores abióticos limitantes
 
-- o **pH** diz respeito à quantidade de íons de Hidrogênio;
+- o **pH** diz respeito à quantidade de íons de Hidrogênio dissolvidos em água;
 
 
-<img width="40%"src="img/ph.png">
-<img width="50%" src="https://cdn.britannica.com/37/6537-050-CF14602B/ammonia-Nitrogen-fixation-nitrogen-form-means-nitrates-1909.jpg?w=690&h=388&c=crop">
-
+.center[<img width="80%" src="https://vaiquimica.com.br/wp-content/uploads/2021/02/escala_de_ph.png">
+]
 
 ---
 class: top, left
 
 # [Solo](https://www.embrapa.br/contando-ciencia/solos/-/asset_publisher/1ZCT5VQ5Hj1S/content/o-que-e-e-como-se-forma-o-solo-/1355746?inheritRedirect=false) & [Solo](https://pt.wikipedia.org/wiki/Solo)
 
-- Pedogênese: Diz respeito à formação dos solos.
+- Pedogênese: Diz respeito à formação dos solos. Longo tempo de formação: intemperismo físico, químico e biológico
 
 - Formado de partículas minerais e orgânicas.
 
 - Macronutrientes: N, P, K, Ca, Mg, S.
 
 - Micronutrientes: B, Cl, Cu, Fe, Mn, Mo, Zn, Si e Ni.
+
+.center[<img width="63%" src="img/SM6.png">]
+---
+# Granulometria
+- Se refere ao tamanha das partículas do solo.
+
+.center[<img width="70%" src="img/SM8.png">]
 
 ---
 class: top, center
@@ -237,12 +262,22 @@ class: top, center
 - Disponibilidade de nutrientes para os organismos
 
 _Fonte: [Neina, 2019](https://www.hindawi.com/journals/aess/2019/5794869/)_
-
-
 ---
 class: top, center
 
-# Mas os organismos também influenciam as condições ambientais.
+.left[
+# Fertilidade do solo modula estratégia das plantas para lidarem com a seca
+
+- Trade-off entre segurança hidráulica e crescimento
+]
+
+<img width="55%" src="img/rafa.png">
+
+_Fonte: [Oliveira et al., 2020](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.17266)_
+---
+class: top, center
+
+# Os organismos também influenciam as condições ambientais.
 
 .left-column[
 - Retroalimentação entre vegetação e condições ambientais;
@@ -330,7 +365,7 @@ class: top, left
 _Fonte: [Circulação Global idealizada](http://fisica.ufpr.br/grimm/aposmeteo/cap8/cap8-1.html)_
 ]
 ---
-# Clico climático
+# Ciclo climático
 
 
 ### Fatores internos
@@ -345,50 +380,44 @@ _Fonte: [Circulação Global idealizada](http://fisica.ufpr.br/grimm/aposmeteo/c
 <img width="55%" src="https://2img.net/h/s26.postimg.cc/dmm849qa1/100000.png">
 
 [Albedo](http://sigep.cprm.gov.br/glossario/verbete/albedo.htm)]
+---
+# Regime de chuvas afeta distribuiçao da vegetação
+
+- Precipitação média, sazonalidade, desvio padrão anual, variação interanual.
+
+.center[
+<img width="55%" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41561-019-0312-z/MediaObjects/41561_2019_312_Fig1_HTML.png?as=webp">
+<img width= "50%" src="img/hirota.png">
+
+_Fontes: [Ciemer et al., 2019](https://www.nature.com/articles/s41561-019-0312-z); [Hirota et al., 2011](https://www.science.org/doi/10.1126/science.1210657)_
+]
 
 ---
 # Atividade proposta I
 ## Questão para reflexão:
-- 
+- Questão 1: O que são condições ambientais?
 
-- 
+- Questão 2: Qual a relação dos seres vivos com as condições ambientais?
 
-.center[
-<img width="55%" src="https://thumbs.dreamstime.com/z/natureza-e-tecnologia-10914487.jpg"/>]
-
----
-
-class: top, center
-
-# Que condições podemos perceber nestes ambientes?
-
-<img width="34%" src="/img/cerrado ss 1.jpg">
-<img width="50%" src="/img/WhatsApp Image 2021-08-29 at 18.44.50.jpeg">
-
---
-
-#### Que tipos de organismos vivem aqui?
-
----
-# Atividade proposta II
-
-- Explique brevemente... 
+- Questão 3: Escolha um ecossistema da Ilha de Santa Catarina e caracterize as condições ambientais citando fatores bióticos e abióticos deste ecossistema? Ex.: mangue, restinga, floresta, praia, costão rochoso.
 
 .center[
-<img width="55%" src="https://i1.wp.com/professoruesleipaterno.com/wp-content/uploads/2018/04/restinga-joaquina.jpg?resize=616%2C386&ssl=1"/>]
+<img width="50%" src="https://thumbs.dreamstime.com/z/natureza-e-tecnologia-10914487.jpg"/>]
 
 ---
 class: top, left
 
-# Referências
+## Mais algumas referências
 
-- [Bond et al., 2010 - Do nutrient-poor soils inhibit development of forests? A nutrient stock analysis](https://link.springer.com/article/10.1007/s11104-010-0440-0)
+### Seja um autoditada!
 
-- []()
+- Aproveite o material disponível no Moodle da disciplina!
 
-- []()
+- Busque no [Google](https://google.com), no [Google Acadêmico](https://scholar.google.com/) e no [Portal de Periódicos da Capes](https://www-periodicos-capes-gov-br.ezl.periodicos.capes.gov.br/) por termos específicos.
 
 - [Britannica - Environmental Conditions](https://www.britannica.com/science/biosphere/Environmental-conditions)
+
+- Também há links interessantes nos slides: explore!
 
 ---
 .center[
