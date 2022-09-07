@@ -38,23 +38,11 @@ background-image: url("https://s1.static.brasilescola.uol.com.br/be/conteudo/ima
 # Sumário
 
 .left[
-1. Conceitos: fatores abióticos, condições ambientais e recursos;
+1. Conceitos;
 
-2. Relação dos fatores abióticos com os fatores bióticos;
+2. Fatores abióticos limitantes;
 
-3. Fatores abióticos limitantes;
-
-4. Exemplos em Ambientes terrestres;
-
-5. Exemplos em Ambiente marinho;
-
-6. Atmosfera;
-
-7. Condições ambientais e interações bióticas;
-
-8. Condições ambientais e características das espécies;
-
-9. Dinâmica das condições ambientais;
+3. Solo;
 
 10. Atividade proposta.
 ]
@@ -71,12 +59,20 @@ class: top,center
 .left[
 
 - ### Fatores abióticos são os elementos [não vivos](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/abiotic-factor) do ambiente. 
+
+.left-column[
+
+- Solo*
+- Água
+- Rochas
+- Luz
+- Vento
+- Gases atmosféricos]
 ]
 
-<img width="33%" src="https://biologyreader.com/wp-content/uploads/2022/05/abiotic-factors.jpg">
-
-_Imagem tirada de <https://biologyreader.com>_
-
+.right-column[
+<img width = "48%" src="img/WhatsApp Image 2021-08-29 at 18.44.59.jpeg">
+]
 
 ---
 class: top, center
@@ -113,12 +109,6 @@ class: top, left
 
 #### - O que não quer dizer que as condições não se modificam com o tempo.
 
-
----
-class: top, center
-
-# Mas os organismos também influenciam as condições ambientais.
-
 ---
 class: top, left
 
@@ -127,16 +117,19 @@ class: top, left
 - São fatores que limitam o tamanho das populações e podem limitar ou diminuir o seu crescimento.
 
 <img width="160%" src="./img/resposta.png"> _Curvas de resposta dos organismos às condições ambientais._
-
 ---
 class: top, left
 
 ## Fatores abióticos limitantes
 
-- **Água:** Aquáticos: Possui elementos inorgânicos dissolvidos; equilíbrio hosmótico dos organismos aquáticos; dissecação nos terrestres;
+- **Água:** Possui elementos inorgânicos dissolvidos; equilíbrio hosmótico dos organismos aquáticos; dissecação nos terrestres;
 
-<img width="50%" src="">
+- Elevado [calor específico](https://pt.wikipedia.org/wiki/Calor_espec%C3%ADfico) e [calor latente](https://pt.wikipedia.org/wiki/Calor_latente)
 
+.center[
+<img width="68%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ciclo_da_%C3%A1gua.jpg/350px-Ciclo_da_%C3%A1gua.jpg">
+
+_Fonte da imagem: Wikipedia_] 
 ---
 class: top, left
 
@@ -171,49 +164,140 @@ class: top, left
 
 - o **pH** diz respeito à quantidade de íons de Hidrogênio;
 
-<img width="34%" src="/img/ph.png">
-
----
-class: top, left
-
-# Condições ambientais
-
-### Características do solo;
+.center[
+<img width="50%" src="/img/ph.png">
+]
 
 ---
 class: top, center
 
-# 
+# pH do solo controla os processos biogeoquímicos
 
-<img width="50%" src="">
+.right-column[
+<img src="https://static-02.hindawi.com/articles/aess/volume-2019/5794869/figures/5794869.fig.001.svgz">
+]
 
+*pH do solo controla:*
+
+- Solubilidade;
+- Mobilidade; e
+- Disponibilidade de nutrientes para os organismos
+
+_Fonte: [Neina, 2019](https://www.hindawi.com/journals/aess/2019/5794869/)_
 ---
 class: top, left
 
-# 
+# [Solo](https://www.embrapa.br/contando-ciencia/solos/-/asset_publisher/1ZCT5VQ5Hj1S/content/o-que-e-e-como-se-forma-o-solo-/1355746?inheritRedirect=false) & [Solo](https://pt.wikipedia.org/wiki/Solo)
+
+- Formado de partículas minerais e orgânicas
+
+- Macronutrientes: N, P, K, Ca, Mg, S
+
+- Micronutrientes: B, Cl, Cu, Fe, Mn, Mo, Zn, Si e Ni
+
+---
+class: top, center
+
+# Horizontes do solo
+
+.left[
+O: O horizonte orgânico do solo e bastante escuro;
+
+A: Horizonte superficial, com bastante interferência do clima e da biomassa;
+
+B: Horizonte de maior concentração de argilas, minerais oriundos de horizontes superiores. É o solo com coloração mais forte, agregação e desenvolvimento;
+
+C: Porção de mistura de solo pouco denso com rochas pouco alteradas da rocha mãe;
+
+R: Rocha matriz não alterada. De difícil acesso em campo.
+]
+
+
+<img width="30%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Soil_profile.jpg/170px-Soil_profile.jpg">
+
+
+
+---
+class: top, center
+
+# Mas os organismos também influenciam as condições ambientais.
+
+.left-column[
+- Retroalimentação entre vegetação e condições ambientais;
+]
+
+.right-column[<img width="90%" src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11104-019-04097-8/MediaObjects/11104_2019_4097_Fig4_HTML.png?as=webp">
+
+_Fonte: [Flores et al., 2019](https://link.springer.com/article/10.1007/s11104-019-04097-8)_
+]
+---
+class: tpo, center
+
+## Estrutura da vegetação versus condições ambientais
+
+.left-column[
+- Retroalimentação entre vegetação e disturbios.
+]
+
+.right-column[<img width="120%" src="img/fire.png">
+
+_Fonte: [Flores et al., 2015](https://sci-hub.se/https://doi.org/10.5194/bg-12-5563-2015)_
+]
+---
+class: top, center
+
+## Espécies exóticas mudam estrutura da vegetação
+- Mudança no funcionamento do sistema
+.left-column[
+<img width="500%" src="https://www.pnas.org/cms/10.1073/pnas.0710811105/asset/5e4db7bb-dd53-44e5-8671-09647025d7ac/assets/graphic/zpq0080896870002.jpeg">
+]
+
+.right-column[
+<img width="75%" src="https://www.pnas.org/cms/10.1073/pnas.0710811105/asset/d3653bcd-c6b4-48c7-982e-f8d47218af79/assets/graphic/zpq0080896870001.jpeg">
+]
+
+
+_Fonte: [Asner et al., 2008](https://www.pnas.org/doi/full/10.1073/pnas.0710811105)_
+---
+class: top, center
+
+# Os animais também podem mudar o seu ambiente
+
+<img src="img/elephant.png">
+
+_Fonte: [Berzaghi et al., 2019](https://www.nature.com/articles/s41561-019-0395-6)_
+---
+class: top, center
+
+# Outro Exemplo: 
+
+## Campos de murundu
+.left-column[
+<img width="500%" src="img/20210726_101526.jpg">
+
+]
+
+.right-column[<img width="75%" src="img/murunduu.png">]
+
+_Fonte: [Ndlovu et a, 2021](https://doi.org/10.1016/J.JTHERBIO.2021.103068)_
+---
+class: top, left
+
+# Ciclo climático
 
 <img width="50%" src="">
 
---
-
-- temperatura
-
---
-
-- precipitação
-
---
 
 - sazonalidade, variação interanual
 
-.center[<img width="70%" src="indicators.png"/>]
+.center[<img width="70%" src="img/indicators.png"/>]
 
 ---
 # Atividade proposta I
 ## Questão para reflexão:
-- Você acredita que a tecnologia dá conta de suprir todas as nossas necessidades e substituir as funções vitais dos sistemas naturais?
+- 
 
-- Responder em até 300 palavras.
+- 
 
 .center[
 <img width="55%" src="https://thumbs.dreamstime.com/z/natureza-e-tecnologia-10914487.jpg"/>]
