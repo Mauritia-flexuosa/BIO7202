@@ -13,7 +13,7 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
-      
+    
 ---
 class: top, center
 
@@ -349,11 +349,11 @@ _Fonte: [Asner et al., 2008](https://www.pnas.org/doi/full/10.1073/pnas.07108111
 ---
 class: top, center
 
-# Os animais também podem mudar o seu ambiente
+# Os animais também podem mudar o seu ambiente `r emo::ji("elephant")`
 
 <img src="img/elephant.png">
 
-_Fonte: [Berzaghi et al., 2019](https://www.nature.com/articles/s41561-019-0395-6)_
+ _Fonte: [Berzaghi et al., 2019](https://www.nature.com/articles/s41561-019-0395-6)_
 ---
 class: top, center
 
