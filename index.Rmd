@@ -372,7 +372,7 @@ _Fontes: [Circulação Global idealizada](http://fisica.ufpr.br/grimm/aposmeteo/
 class: top, left
 
 # Mudanças climáticas
-
+- Transformações de longo prazo nos padrões de temperatura e chuva.
 ### Forçantes externos:
 
 - Movimentos de rotação e translação: Escala anual e diária;
@@ -383,7 +383,7 @@ class: top, left
 
 - Ciclos longos (10 a 100 mil anos): Mudanças na órbita da Terra. Ciclo de Milankovitch.
 
- & [Barry e Carleton, 2021](https://doi.org/10.4324/9780203218181)_
+_Fontes: [Barry e Carleton, 2021](https://doi.org/10.4324/9780203218181)_
 
 ---
 # Mudanças climáticas
@@ -402,10 +402,12 @@ class: top, left
 [Albedo](http://sigep.cprm.gov.br/glossario/verbete/albedo.htm)]
 ---
 class: top, center
+# Feômeno atmosférico-oceânico
 
+.left[### [El niño](http://enos.cptec.inpe.br/) e [La niña](http://enos.cptec.inpe.br/)
+]
 .center[
-<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_el.jpg"> [El niño](http://enos.cptec.inpe.br/) DJF
-<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_la.jpg"> [La niña](http://enos.cptec.inpe.br/) DJF
+<img width="90%" src="http://enos.cptec.inpe.br/~renos/common/img/DJF_el.jpg">
 ]
 
 ---
