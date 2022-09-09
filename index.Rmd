@@ -358,12 +358,22 @@ class: top, center
 .right-column[<img width="75%" src="img/murunduu.png">]
 
 _Fonte: [Ndlovu et a, 2021](https://doi.org/10.1016/J.JTHERBIO.2021.103068)_
+
+---
+class: top, center
+
+# Circulação da atmosfera
+
+.center[<img width="50%" src="http://fisica.ufpr.br/grimm/aposmeteo/cap8/Image590.jpg"/>
+
+_Fontes: [Circulação Global idealizada](http://fisica.ufpr.br/grimm/aposmeteo/cap8/cap8-1.html)_
+]
 ---
 class: top, left
 
-# Ciclo climático
+# Mudanças climáticas
 
-### Fatores externos:
+### Forçantes externos:
 
 - Movimentos de rotação e translação: Escala anual e diária;
 
@@ -373,18 +383,10 @@ class: top, left
 
 - Ciclos longos (10 a 100 mil anos): Mudanças na órbita da Terra. Ciclo de Milankovitch.
 
-.left-column[
-<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_el.jpg"> [El niño](http://enos.cptec.inpe.br/) DJF
-<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_la.jpg"> [La niña](http://enos.cptec.inpe.br/) DJF
-]
+ & [Barry e Carleton, 2021](https://doi.org/10.4324/9780203218181)_
 
-.right-column[<img width="50%" src="http://fisica.ufpr.br/grimm/aposmeteo/cap8/Image590.jpg"/>
-
-_Fontes: [Circulação Global idealizada](http://fisica.ufpr.br/grimm/aposmeteo/cap8/cap8-1.html) & [Barry e Carleton, 2021](https://doi.org/10.4324/9780203218181)_
-.]
 ---
-# Ciclo climático
-
+# Mudanças climáticas
 
 ### Forçantes internos: Mudanças em escala de tempo (relativamente) curto
 
@@ -398,6 +400,14 @@ _Fontes: [Circulação Global idealizada](http://fisica.ufpr.br/grimm/aposmeteo/
 <img width="55%" src="https://2img.net/h/s26.postimg.cc/dmm849qa1/100000.png">
 
 [Albedo](http://sigep.cprm.gov.br/glossario/verbete/albedo.htm)]
+---
+class: top, center
+
+.center[
+<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_el.jpg"> [El niño](http://enos.cptec.inpe.br/) DJF
+<img src="http://enos.cptec.inpe.br/~renos/common/img/DJF_la.jpg"> [La niña](http://enos.cptec.inpe.br/) DJF
+]
+
 ---
 # Regime de chuvas afeta distribuiçao da vegetação
 
